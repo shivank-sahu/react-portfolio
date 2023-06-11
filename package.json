@@ -1,6 +1,6 @@
 {
-  "name": "personal-potfolio",
-  "homepage": "https://TechWithShivank.github.io/TechwithShivank",
+  "name": "react-portfolio",
+  "homepage": "https://shivankji.github.io/react-portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
